@@ -1,0 +1,28 @@
+{
+  "name": "seerc-discord-bot",
+  "version": "1.0.0",
+  "description": "The Discord Bot for SEERC ICPC 2025",
+  "keywords": [
+    "seerc",
+    "icpc"
+  ],
+  "homepage": "https://github.com/Leokratis/SEERC-Discord-Bot#readme",
+  "bugs": {
+    "url": "https://github.com/Leokratis/SEERC-Discord-Bot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leokratis/SEERC-Discord-Bot.git"
+  },
+  "license": "ISC",
+  "author": "seerc-team",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1"
+  }
+}
